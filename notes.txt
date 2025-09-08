@@ -1,0 +1,6 @@
+Problem Faced-----------> 
+    1. I had to migrate at the very beginning. 
+        otherwise, even a simple api-view wouldnt run. 
+        Showed OperationalError: no such table: django_session
+
+        After migration, problem solved. 
