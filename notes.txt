@@ -4,3 +4,6 @@ Problem Faced----------->
         Showed OperationalError: no such table: django_session
 
         After migration, problem solved. 
+
+
+just a note to create and push new branch named practice-22.5
